@@ -19,6 +19,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 
 ## C 
@@ -123,6 +124,11 @@
 ## Swift 
 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+## TeX 
+
+- [junhaodong/resume](https://github.com/junhaodong/resume) - Resume in LaTeX
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
