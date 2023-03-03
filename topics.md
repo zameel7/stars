@@ -71,6 +71,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -315,6 +316,7 @@
 
 ## others 
 
+- [Vivek0306/Inventory-Management](https://github.com/Vivek0306/Inventory-Management) - 
 - [LinoShaji/portfolio](https://github.com/LinoShaji/portfolio) - entire code for my portfolio
 - [beSaif/FlutGPT](https://github.com/beSaif/FlutGPT) - FlutGPT utilizes OpenAI's GPT-3 language model to generate text based on user inputs.
 - [rabeeh-ta/stock-trading-application-dbms-mini-project](https://github.com/rabeeh-ta/stock-trading-application-dbms-mini-project) - 
@@ -348,6 +350,7 @@
 
 ## python 
 
+- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 - [itzmeanjan/indian-railway](https://github.com/itzmeanjan/indian-railway) - Exploring Indian Railways time table dataset, with :heart:
@@ -430,6 +433,10 @@
 ## vue 
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+
+## vuejs 
+
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## web 
 
