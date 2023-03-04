@@ -71,7 +71,6 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [website](#website)
 - [windows](#windows)
@@ -433,10 +432,6 @@
 ## vue 
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
-
-## vuejs 
-
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## web 
 
