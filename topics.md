@@ -315,6 +315,7 @@
 
 ## others 
 
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Vivek0306/Inventory-Management](https://github.com/Vivek0306/Inventory-Management) - 
 - [LinoShaji/portfolio](https://github.com/LinoShaji/portfolio) - entire code for my portfolio
 - [beSaif/FlutGPT](https://github.com/beSaif/FlutGPT) - FlutGPT utilizes OpenAI's GPT-3 language model to generate text based on user inputs.
