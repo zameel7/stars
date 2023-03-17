@@ -26,6 +26,7 @@
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [devops](#devops)
+- [django](#django)
 - [docker](#docker)
 - [electron](#electron)
 - [firebase](#firebase)
@@ -178,6 +179,10 @@
 - [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 
+## django 
+
+- [openfun/richie](https://github.com/openfun/richie) - :pencil: An opensource CMS to build education portals
+
 ## docker 
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -211,6 +216,7 @@
 
 ## hacktoberfest 
 
+- [openfun/richie](https://github.com/openfun/richie) - :pencil: An opensource CMS to build education portals
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [appwrite/sdk-for-dart](https://github.com/appwrite/sdk-for-dart) - [READ-ONLY] Official Appwrite Dart SDK 💙
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
