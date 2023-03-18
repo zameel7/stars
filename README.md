@@ -72,6 +72,7 @@
 
 ## Others 
 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [anmol098/anmol098](https://github.com/anmol098/anmol098) - If you are forking please do not forget to star the repo
 - [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 - [VGVentures/.github](https://github.com/VGVentures/.github) - 
