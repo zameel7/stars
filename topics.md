@@ -10,11 +10,13 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
 - [bot](#bot)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [css](#css)
 - [dart](#dart)
@@ -32,6 +34,7 @@
 - [firebase](#firebase)
 - [flutter](#flutter)
 - [framework](#framework)
+- [git](#git)
 - [google](#google)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -80,6 +83,7 @@
 
 ## ai 
 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [binayshaw7777/Microsoft-Engage-2022-PresIN](https://github.com/binayshaw7777/Microsoft-Engage-2022-PresIN) - 📑 Smart Attendance App that uses face recognition
 
 ## algorithm 
@@ -103,6 +107,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+
+## artificial-intelligence 
+
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 
 ## awesome 
 
@@ -128,6 +136,10 @@
 ## bot 
 
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+
+## chatgpt 
+
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 
 ## cli 
 
@@ -209,6 +221,10 @@
 
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+
+## git 
+
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 
 ## google 
 
