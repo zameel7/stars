@@ -340,6 +340,7 @@
 
 ## others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Vivek0306/Inventory-Management](https://github.com/Vivek0306/Inventory-Management) - 
 - [LinoShaji/portfolio](https://github.com/LinoShaji/portfolio) - entire code for my portfolio
