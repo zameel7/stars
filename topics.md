@@ -30,6 +30,7 @@
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
+- [education](#education)
 - [electron](#electron)
 - [firebase](#firebase)
 - [flutter](#flutter)
@@ -202,6 +203,11 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 - [openedx/devstack](https://github.com/openedx/devstack) - Get up and running quickly to develop or extend Open edX services
+
+## education 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## electron 
 
