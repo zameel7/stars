@@ -220,6 +220,7 @@
 
 ## flutter 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [simc/awesome-flutter-packages](https://github.com/simc/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 
@@ -309,6 +310,7 @@
 
 ## linux 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
@@ -318,6 +320,7 @@
 
 ## macos 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [codedgar/Puppertino](https://github.com/codedgar/Puppertino) - A CSS framework based on Human Guidelines from apple
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
