@@ -127,6 +127,7 @@
 
 ## Shell 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [openedx/devstack](https://github.com/openedx/devstack) - Get up and running quickly to develop or extend Open edX services
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
