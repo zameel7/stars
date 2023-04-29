@@ -44,7 +44,7 @@
 
 ## HTML 
 
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
+- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [NasikhCL/music-player](https://github.com/NasikhCL/music-player) - 
 
 ## Java 
