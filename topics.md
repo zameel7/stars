@@ -358,7 +358,7 @@
 - [Vivek0306/Knockout_FISAT](https://github.com/Vivek0306/Knockout_FISAT) - 
 - [AkhilLV/SpaceLearn](https://github.com/AkhilLV/SpaceLearn) - A glorified todo-list. Create spaced learning cards for your tasks!
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
+- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [srafay/Machine_Learning_A-Z](https://github.com/srafay/Machine_Learning_A-Z) - Learning to create Machine Learning Algorithms
 - [binayshaw7777/Microsoft-Engage-2022-Interview-Questions](https://github.com/binayshaw7777/Microsoft-Engage-2022-Interview-Questions) - This repository contains a list of coding questions and their Answers. Also, I've added the list of Behavoiral questions or followup questions. This will surely gonna help you for Microsoft Engage 202
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
