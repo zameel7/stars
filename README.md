@@ -115,6 +115,7 @@
 
 ## Rust 
 
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
 ## SCSS 
