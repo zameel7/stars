@@ -18,6 +18,7 @@
 - [bot](#bot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [compiler](#compiler)
 - [css](#css)
 - [dart](#dart)
 - [data-analysis](#data-analysis)
@@ -45,6 +46,7 @@
 - [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -65,6 +67,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [ruby](#ruby)
+- [rust](#rust)
 - [sass](#sass)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -146,6 +149,10 @@
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+
+## compiler 
+
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
 
 ## css 
 
@@ -293,6 +300,10 @@
 - [overhangio/tutor](https://github.com/overhangio/tutor) - The Docker-based Open edX distribution designed for peace of mind
 - [kunal-kushwaha/DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 
+## language 
+
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
+
 ## latex 
 
 - [junhaodong/resume](https://github.com/junhaodong/resume) - Resume in LaTeX
@@ -379,6 +390,7 @@
 
 ## programming 
 
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -422,6 +434,10 @@
 ## ruby 
 
 - [TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) - Main Website for The Odin Project
+
+## rust 
+
+- [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
 
 ## sass 
 
