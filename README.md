@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [rabeeh-ta/stock-trading-application-dbms-mini-project](https://github.com/rabeeh-ta/stock-trading-application-dbms-mini-project) - 
 - [AkhilLV/SpaceLearn](https://github.com/AkhilLV/SpaceLearn) - A glorified todo-list. Create spaced learning cards for your tasks!
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
@@ -144,7 +145,6 @@
 
 ## TypeScript 
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
