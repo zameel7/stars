@@ -70,6 +70,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -79,6 +80,7 @@
 - [terminal](#terminal)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -99,6 +101,7 @@
 
 ## android 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [binayshaw7777/Microsoft-Engage-2022-PresIN](https://github.com/binayshaw7777/Microsoft-Engage-2022-PresIN) - 📑 Smart Attendance App that uses face recognition
@@ -161,6 +164,7 @@
 
 ## dart 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [appwrite/sdk-for-dart](https://github.com/appwrite/sdk-for-dart) - [READ-ONLY] Official Appwrite Dart SDK 💙
 - [simc/awesome-flutter-packages](https://github.com/simc/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 
@@ -272,6 +276,7 @@
 
 ## ios 
 
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [simc/awesome-flutter-packages](https://github.com/simc/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 
@@ -448,6 +453,10 @@
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 
+## self-hosted 
+
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
+
 ## serverless 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
@@ -484,6 +493,10 @@
 ## typescript 
 
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+
+## ubuntu 
+
+- [shan-shaji/setup-flutter](https://github.com/shan-shaji/setup-flutter) - Automated script to install and setup Flutter development environment with Homebrew and FVM. Compatible with macOS and Linux.
 
 ## vue 
 
