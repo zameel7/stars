@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [levinunnink/html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2023 Script Editor)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [rabeeh-ta/stock-trading-application-dbms-mini-project](https://github.com/rabeeh-ta/stock-trading-application-dbms-mini-project) - 
 - [AkhilLV/SpaceLearn](https://github.com/AkhilLV/SpaceLearn) - A glorified todo-list. Create spaced learning cards for your tasks!
@@ -147,6 +148,7 @@
 
 ## TypeScript 
 
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
