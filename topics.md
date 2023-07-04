@@ -452,7 +452,6 @@
 ## rust 
 
 - [Sreyas-Sreelal/malluscript](https://github.com/Sreyas-Sreelal/malluscript) - A simple,gentle,humble scripting language for mallus, based on malayalam memes.
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 
 ## sass 
 
