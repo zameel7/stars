@@ -1,17 +1,13 @@
 name: update awesome-stars
 on:
   workflow_dispatch:
-  schedule:
-  - cron: 30 0 * * *
+  
 jobs:
   awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
